@@ -1,5 +1,6 @@
 // ギリシャ国旗
-function setup() {
+function setup() 
+{
   const blue = color(0, 51, 160);
   createCanvas(270, 180);
   noStroke();
